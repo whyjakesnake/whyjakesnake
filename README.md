@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whyjakesnake
-- 👀 I’m interested in doing physical things like climbing, hiking and  more
+- 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
